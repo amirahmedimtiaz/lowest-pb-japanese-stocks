@@ -1,0 +1,6 @@
+.env
+__pycache__/
+*.csv
+!reports/
+!reports/*.csv
+cache/

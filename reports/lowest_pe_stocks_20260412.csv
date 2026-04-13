@@ -1,0 +1,611 @@
+﻿Ticker,Name,Sector,P/E Ratio,Equity Ratio %
+3279.T,Activia Properties Inc.,-,0.02,47.72
+1629.T,NEXT FUNDS TOPIX-17 COMMERCIAL & WHOLESALE TRADE ETF,-,0.04,N/A
+2846.T,NEXT FUNDS DJIA (Yen-Hedged) Exchange Traded Fund,-,1.0,N/A
+1546.T,NEXT FUNDS DJIA (Unhedged) Exchange Traded Fund,-,1.01,N/A
+1306.T,NEXT FUNDS TOPIX Exchange Traded Fund,-,1.79,N/A
+2633.T,NEXT FUNDS S&P 500 (Unhedged) Exchange Traded Fund,-,2.53,N/A
+2634.T,NEXT FUNDS S&P 500 (Yen-Hedged) Exchange Traded Fund,-,2.57,N/A
+364A.T,NEXT FUNDS S&P 500 Dividend Aristocrats Index Exchange Traded Fund,-,2.75,N/A
+346A.T,NEXT FUNDS S&P 500 Semiconductors & Semiconductor Equipment (Industry Group) 35% Capped Index Exchange Traded Fund,-,2.81,N/A
+1545.T,NEXT FUNDS NASDAQ-100(R) (Unhedged) Exchange Traded Fund,-,3.09,N/A
+2845.T,NEXT FUNDS NASDAQ-100(R) (Yen-Hedged) Exchange Traded Fund,-,3.32,N/A
+487A.T,NEXT FUNDS German Equity DAX (Unhedged) Exchange Traded Fund,-,7.08,N/A
+2860.T,NEXT FUNDS German Equity DAX (Yen-Hedged) Exchange Traded Fund,-,7.24,N/A
+1495.T,Listed Index Fund Asian REIT,-,7.52,N/A
+3290.T,"One REIT,Inc.",-,7.56,45.8
+1627.T,NEXT FUNDS TOPIX-17 ELECTRIC POWER & GAS ETF,-,7.78,N/A
+3463.T,Ichigo Hotel REIT Investment Corporation,-,8.09,54.3
+1557.T,State Street SPDR S&P 500 ETF Trust,-,9.14,N/A
+1632.T,NEXT FUNDS TOPIX-17 FINANCIALS (EX BANKS) ETF,-,9.78,N/A
+1497.T,iShares USD High Yield Corporate Bond JPY Hedged ETF,-,10.52,N/A
+9204.T,Skymark Airlines Inc.,Air Transportation,6.4,26.1
+9206.T,Star Flyer Inc.,Air Transportation,6.44,17.5
+9201.T,"Japan Airlines Co.,Ltd.",Air Transportation,9.21,34.89
+9202.T,ANA HOLDINGS INC.,Air Transportation,10.2,31.22
+9233.T,"Asia Air Survey Co.,Ltd.",Air Transportation,12.35,55.42
+8558.T,"THE TOWA BANK,LTD.",Banks,6.55,3.8
+8713.T,FIDEA Holdings Co.Ltd.,Banks,8.73,2.64
+8563.T,"THE DAITO BANK,LTD.",Banks,9.18,3.74
+8551.T,"The Kita-Nippon Bank,Ltd.",Banks,10.67,5.66
+8395.T,THE BANK OF SAGA LTD.,Banks,10.86,3.66
+8541.T,"The Ehime Bank,Ltd.",Banks,10.9,4.57
+8537.T,"THE TAIKO BANK,LTD.",Banks,11.19,4.47
+8383.T,"THE TOTTORI BANK,LTD.",Banks,11.26,4.34
+8365.T,"The Bank of Toyama,Ltd.",Banks,12.09,5.19
+8303.T,"SBI Shinsei Bank,Limited",Banks,12.35,4.7
+8309.T,"Sumitomo Mitsui Trust Group,Inc.",Banks,12.61,3.96
+8343.T,"THE AKITA BANK,LTD.",Banks,12.72,4.52
+7350.T,"Okinawa Financial Group,Inc.",Banks,13.07,5.15
+8399.T,"Bank of The Ryukyus,Limited",Banks,13.18,4.7
+8364.T,"THE SHIMIZU BANK,LTD.",Banks,13.32,3.96
+7173.T,"Tokyo Kiraboshi Financial Group,Inc.",Banks,13.64,5.23
+8418.T,"Yamaguchi Financial Group,Inc.",Banks,14.05,4.76
+7327.T,"Daishi Hokuetsu Financial Group,Inc.",Banks,14.06,4.36
+5830.T,"Iyogin Holdings,Inc.",Banks,14.08,8.72
+8600.T,"TOMONY Holdings,Inc.",Banks,14.12,5.59
+4222.T,"KODAMA CHEMICAL INDUSTRY CO.,LTD.",Chemicals,0.76,28.8
+9385.T,SHOEI CORPORATION,Chemicals,4.34,40.99
+4611.T,"Dai Nippon Toryo Company,Limited",Chemicals,4.6,48.87
+4918.T,IVY COSMETICS CORPORATION,Chemicals,4.75,69.2
+4977.T,Nitta Gelatin Inc.,Chemicals,4.79,51.2
+6776.T,"Tensho Electric Industries Co.,Ltd.",Chemicals,4.79,48.02
+4231.T,TIGERS POLYMER CORPORATION,Chemicals,5.3,72.28
+4361.T,"KAWAGUCHI CHEMICAL INDUSTRY CO.,LTD.",Chemicals,6.2,35.33
+4040.T,"NANKAI CHEMICAL COMPANY,LIMITED",Chemicals,6.27,37.37
+4120.T,"SUGAI CHEMICAL INDUSTRY CO.,LTD.",Chemicals,6.29,64.93
+373A.T,"LIPPS CO.,LTD",Chemicals,6.58,88.8
+7888.T,SANKO GOSEI LTD.,Chemicals,6.66,42.33
+4465.T,"Niitaka Co., Ltd.",Chemicals,6.7,65.34
+4113.T,"TAOKA CHEMICAL COMPANY,LIMITED",Chemicals,7.26,60.84
+4933.T,"I-ne CO.,LTD.",Chemicals,7.78,47.1
+4028.T,"ISHIHARA SANGYO KAISHA,LTD.",Chemicals,8.15,50.77
+4925.T,"HABA LABORATORIES,INC.",Chemicals,8.35,72.32
+7927.T,MUTO SEIKO CO.,Chemicals,8.35,59.22
+4471.T,"SANYO CHEMICAL INDUSTRIES,LTD.",Chemicals,8.47,76.76
+7877.T,"EIDAI KAKO CO.,LTD.",Chemicals,8.55,73.13
+1848.T,FUJI P.S CORPORATION,Construction,3.65,32.6
+403A.T,HOJYOGUMI.Co.Ltd,Construction,4.57,71.33
+312A.T,Shinko Holdings Corporation,Construction,4.71,15.04
+1798.T,MORIYA CORPORATION,Construction,4.89,46.69
+1718.T,"MIKIKOGYO CO.,LTD.",Construction,5.17,44.3
+5077.T,"Hands Co.,Ltd.",Construction,5.82,72.68
+1850.T,"Nankai Tatsumura Construction Co.,Ltd.",Construction,6.67,40.33
+1420.T,Sanyo Homes Corporation,Construction,6.81,30.31
+1452.T,"YOKOHAMA WRIGHT Industries Co.,LTD",Construction,6.88,74.15
+1847.T,"ICHIKEN Co.,Ltd.",Construction,7.59,50.42
+1418.T,"INTERLIFE HOLDINGS CO.,LTD.",Construction,7.87,44.66
+1867.T,UEKI CORPORATION,Construction,8.01,56.98
+207A.T,Rising Corporation Inc.,Construction,8.06,37.18
+1443.T,"Giken Holdings Co.,Ltd.",Construction,8.1,67.53
+1764.T,KUDO CORPORATION,Construction,8.1,31.28
+1780.T,YAMAURA CORPORATION,Construction,8.1,75.46
+1997.T,"AKATSUKI EAZIMA CO.,LTD.",Construction,8.29,68.85
+1960.T,Sanyo Engineering & Construction Inc.,Construction,8.31,51.6
+1911.T,"Sumitomo Forestry Co.,Ltd.",Construction,8.4,39.04
+136A.T,"Sankosyoji Co.,Ltd.",Construction,8.53,40.27
+6695.T,"Castrico Co.,Ltd.",Electric Appliances,0.26,61.23
+3856.T,Abalance Corporation,Electric Appliances,1.44,16.05
+6699.T,"DIAMOND ELECTRIC HOLDINGS Co.,Ltd.",Electric Appliances,2.51,14.37
+6822.T,"Oi Electric Co.,Ltd.",Electric Appliances,5.1,29.83
+6527.T,"WAKA MANUFACTURING CO.,LTD.",Electric Appliances,5.37,70.81
+6658.T,"Shirai Electronics Industrial Co.,Ltd.",Electric Appliances,5.8,51.03
+6969.T,"MATSUO ELECTRIC CO.,LTD.",Electric Appliances,6.05,41.85
+7280.T,MITSUBA Corporation,Electric Appliances,6.07,28.69
+6797.T,"NAGOYA ELECTRIC WORKS CO.,LTD.",Electric Appliances,6.39,81.34
+6753.T,Sharp Corporation,Electric Appliances,6.69,10.64
+6647.T,"MORIO DENKI CO.,LTD.",Electric Appliances,6.72,57.93
+6894.T,"PULSTEC INDUSTRIAL CO.,LTD.",Electric Appliances,7.26,76.81
+6932.T,ENDO Lighting Corporation,Electric Appliances,7.78,65.1
+7244.T,"ICHIKOH INDUSTRIES,LTD.",Electric Appliances,7.97,61.02
+6676.T,BUFFALO INC.,Electric Appliances,8.1,58.65
+6748.T,"SEIWA ELECTRIC MFG. CO.,LTD.",Electric Appliances,8.11,63.06
+6638.T,"MIMAKI ENGINEERING CO.,LTD.",Electric Appliances,8.18,42.3
+6899.T,ASTI CORPORATION,Electric Appliances,8.19,53.3
+6743.T,"Daido Signal Co.,Ltd.",Electric Appliances,8.38,53.5
+6626.T,SEMITEC Corporation,Electric Appliances,8.47,74.45
+9504.T,"The Chugoku Electric Power Company,Incorporated",Electric Power and Gas,3.2,16.22
+9505.T,Hokuriku Electric Power Company,Electric Power and Gas,3.34,20.47
+9506.T,"Tohoku Electric Power Company,Incorporated",Electric Power and Gas,3.54,18.25
+9509.T,"Hokkaido Electric Power Company,Incorporated",Electric Power and Gas,3.86,17.47
+9507.T,"Shikoku Electric Power Company,Incorporated",Electric Power and Gas,4.93,25.96
+9508.T,"Kyushu Electric Power Company,Incorporated",Electric Power and Gas,5.0,17.31
+9534.T,"HOKKAIDO GAS CO.,LTD.",Electric Power and Gas,6.55,44.18
+9503.T,"The Kansai Electric Power Company,Incorporated",Electric Power and Gas,6.67,31.76
+9513.T,"Electric Power Development Co.,Ltd.",Electric Power and Gas,6.99,36.42
+9537.T,"HOKURIKU GAS CO.,LTD.",Electric Power and Gas,8.28,74.91
+9502.T,"Chubu Electric Power Company,Incorporated",Electric Power and Gas,9.49,39.11
+9511.T,"The Okinawa Electric Power Company,Incorporated",Electric Power and Gas,9.5,24.25
+9536.T,"SAIBU GAS HOLDINGS CO.,LTD.",Electric Power and Gas,10.53,23.19
+9543.T,"SHIZUOKA GAS CO.,LTD.",Electric Power and Gas,11.11,67.04
+9535.T,"HIROSHIMA GAS CO.,LTD.",Electric Power and Gas,12.63,52.67
+9539.T,"KEIYO GAS CO.,LTD.",Electric Power and Gas,13.41,56.78
+9514.T,EF-ON INC.,Electric Power and Gas,13.68,40.28
+9519.T,"RENOVA,Inc.",Electric Power and Gas,13.91,16.81
+9531.T,"TOKYO GAS CO.,LTD.",Electric Power and Gas,14.08,44.76
+7692.T,EARTH INFINITY CO.LTD.,Electric Power and Gas,14.12,37.52
+1384.T,"Hokuryo Co.,Ltd.","Fishery, Agriculture and Forestry",8.18,73.65
+1301.T,"KYOKUYO CO.,LTD.","Fishery, Agriculture and Forestry",8.7,36.52
+1381.T,"AXYZ CO.,Ltd.","Fishery, Agriculture and Forestry",9.86,86.14
+1333.T,Umios Corporation,"Fishery, Agriculture and Forestry",10.1,33.7
+1379.T,HOKUTO CORPORATION,"Fishery, Agriculture and Forestry",10.96,52.78
+1376.T,"KANEKO SEEDS CO.,LTD.","Fishery, Agriculture and Forestry",12.36,50.72
+1332.T,Nissui Corporation,"Fishery, Agriculture and Forestry",15.27,43.64
+1377.T,SAKATA SEED CORPORATION,"Fishery, Agriculture and Forestry",15.97,84.46
+1380.T,"AKIKAWA FOODS & FARMS CO.,LTD.","Fishery, Agriculture and Forestry",44.25,30.62
+1375.T,"YUKIGUNI FACTORY CO.,LTD.","Fishery, Agriculture and Forestry",49.74,32.66
+1383.T,"Berg Earth co.,ltd.","Fishery, Agriculture and Forestry",109.9,34.92
+4404.T,"Miyoshi Oil & Fat Co.,Ltd.",Foods,2.36,50.65
+2220.T,"KAMEDA SEIKA CO.,LTD.",Foods,3.4,61.03
+2286.T,"Hayashikane Sangyo Co.,Ltd.",Foods,5.17,42.67
+2112.T,"Ensuiko Sugar Refining Co.,Ltd.",Foods,5.54,56.52
+2924.T,"Ifuji Sangyo Co.,Ltd.",Foods,7.27,66.62
+2602.T,"The Nisshin OilliO Group,Ltd.",Foods,7.77,48.2
+2533.T,"Oenon Holdings,Inc.",Foods,8.06,44.2
+2060.T,"FEED ONE CO.,LTD.",Foods,8.46,43.99
+2927.T,"AFC-HD AMS Life Science Co.,Ltd.",Foods,8.58,30.94
+2932.T,"STI Foods Holdings,Inc.",Foods,8.98,45.98
+2813.T,"Wakou Shokuhin Co.,Ltd.",Foods,9.23,58.73
+4526.T,"RIKEN VITAMIN CO.,LTD.",Foods,9.26,70.05
+226A.T,Katsu Mi Japan Inc.,Foods,9.5,34.94
+2804.T,"BULL-DOG SAUCE CO.,LTD.",Foods,9.62,66.04
+2004.T,"Showa Sangyo Co.,Ltd.",Foods,10.55,52.83
+250A.T,Shimadaya Corporation,Foods,10.87,72.74
+409A.T,"ORION BREWERIES,LTD.",Foods,11.47,37.28
+2114.T,Fuji Nihon Corporation,Foods,11.82,70.57
+2923.T,"SATO FOODS CO.,LTD.",Foods,11.86,46.02
+2001.T,NIPPN CORPORATION,Foods,11.95,60.68
+322A.T,"HIMEJI RIKA CO.,LTD.",Glass and Ceramics Products,3.89,16.47
+5204.T,"ISHIZUKA GLASS CO.,LTD.",Glass and Ceramics Products,4.78,33.77
+5284.T,"YAMAU HOLDINGS CO.,LTD.",Glass and Ceramics Products,5.69,51.8
+5279.T,"NIHON KOGYO CO.,LTD.",Glass and Ceramics Products,6.68,48.82
+5285.T,YAMAX Corp.,Glass and Ceramics Products,7.25,48.1
+5233.T,TAIHEIYO CEMENT CORPORATION,Glass and Ceramics Products,8.03,45.07
+5363.T,TYK CORPORATION,Glass and Ceramics Products,8.49,69.13
+5210.T,"Nihon Yamamura Glass Co.,Ltd.",Glass and Ceramics Products,8.54,57.75
+5356.T,"MINO CERAMIC CO.,LTD.",Glass and Ceramics Products,9.57,67.99
+5232.T,"Sumitomo Osaka Cement Co.,Ltd.",Glass and Ceramics Products,10.0,54.13
+5351.T,"SHINAGAWA REFRA CO.,LTD.",Glass and Ceramics Products,10.34,45.59
+5301.T,"TOKAI CARBON CO.,LTD.",Glass and Ceramics Products,10.64,47.94
+5368.T,"JAPAN INSULATION CO.,LTD.",Glass and Ceramics Products,10.72,76.91
+5273.T,"MITANI SEKISAN CO.,LTD.",Glass and Ceramics Products,10.95,70.73
+5302.T,"Nippon Carbon Co.,Ltd.",Glass and Ceramics Products,11.04,63.54
+5288.T,ASIA PILE HOLDINGS CORPORATION,Glass and Ceramics Products,11.07,46.95
+4026.T,"Konoshima Chemical Co.,Ltd.",Glass and Ceramics Products,11.43,42.18
+5355.T,"Nippon Crucible Co.,Ltd.",Glass and Ceramics Products,11.55,49.89
+5388.T,"KUNIMINE INDUSTRIES CO.,LTD.",Glass and Ceramics Products,13.91,83.39
+5237.T,NOZAWA CORPORATION,Glass and Ceramics Products,14.04,68.34
+3768.T,Riskmonster.com,Information & Communication,3.27,82.47
+241A.T,"ROXX,inc.",Information & Communication,3.47,34.76
+3779.T,"J ESCOM HOLDINGS,INC.",Information & Communication,3.88,19.32
+5130.T,"HiroHoldings Co.,ltd.",Information & Communication,4.52,15.06
+5251.T,"WISS1 Co.,Ltd.",Information & Communication,5.31,34.51
+3917.T,"iRidge,Inc.",Information & Communication,5.75,41.9
+3903.T,gumi Inc.,Information & Communication,5.81,71.04
+5622.T,"OneBe,Inc.",Information & Communication,6.28,33.7
+9405.T,ASAHI BROADCASTING GROUP HOLDINGS CORPORATION,Information & Communication,6.28,59.57
+9446.T,"SAKAI Holdings CO.,LTD",Information & Communication,6.34,22.53
+222A.T,Nippon Information Control System Inc.,Information & Communication,6.42,35.54
+9685.T,"KYCOM HOLDINGS CO.,LTD.",Information & Communication,6.46,56.37
+3640.T,"DENSAN CO.,LTD.",Information & Communication,6.48,59.22
+9466.T,Aidma Marketing Communication Corporation,Information & Communication,6.53,72.54
+9691.T,"RYOMO SYSTEMS CO.,LTD.",Information & Communication,6.59,55.1
+2432.T,"DeNA Co.,Ltd.",Information & Communication,6.61,61.32
+3696.T,CERES INC.,Information & Communication,6.92,35.46
+9984.T,SoftBank Group Corp.,Information & Communication,7.06,25.68
+3826.T,System Integrator Corp.,Information & Communication,7.13,82.53
+244A.T,"Growth xPartners,Inc.",Information & Communication,7.23,71.44
+8729.T,Sony Financial Group Inc.,Insurance,0.82,N/A
+8725.T,"MS&AD Insurance Group Holdings,Inc.",Insurance,8.45,15.25
+7181.T,"JAPAN POST INSURANCE Co.,Ltd.",Insurance,11.66,5.44
+8766.T,"Tokio Marine Holdings,Inc.",Insurance,12.9,16.25
+8630.T,"Sompo Holdings,Inc.",Insurance,13.14,26.46
+8750.T,"Dai-ichi Life Holdings,Inc.",Insurance,13.39,4.99
+5840.T,"Nippon Souken Co.,Ltd.",Insurance,14.06,34.78
+8795.T,"T&D Holdings, Inc.",Insurance,16.03,7.83
+7325.T,IRRC Corporation,Insurance,16.23,70.04
+7326.T,"SBI Insurance Group Co.,Ltd.",Insurance,19.84,19.48
+7343.T,"Broad-Minded Co.,Ltd.",Insurance,20.66,73.64
+7157.T,LIFENET INSURANCE COMPANY,Insurance,23.98,79.28
+7388.T,FP Partner Inc.,Insurance,28.9,64.24
+8715.T,"Anicom Holdings,Inc.",Insurance,45.66,38.72
+7170.T,"CHUOU INTERNATIONAL GROUP CO.,LTD.",Insurance,192.31,35.04
+5410.T,"Godo Steel,Ltd.",Iron and Steel,4.7,52.84
+5445.T,"TOKYO TEKKO CO.,LTD.",Iron and Steel,4.89,73.46
+5491.T,"NIPPON KINZOKU CO.,LTD.",Iron and Steel,4.94,39.85
+5603.T,KOGI CORPORATION,Iron and Steel,5.04,42.58
+5406.T,"Kobe Steel,Ltd.",Iron and Steel,6.09,40.19
+5480.T,"Nippon Yakin kogyo Co.,Ltd.",Iron and Steel,7.06,44.34
+5697.T,"SANYU CO.,LTD.",Iron and Steel,7.45,51.07
+5408.T,"NAKAYAMA STEEL WORKS,LTD.",Iron and Steel,8.0,71.61
+5609.T,NIPPON CHUZO K.K.,Iron and Steel,8.06,53.23
+5644.T,METALART CORPORATION,Iron and Steel,8.06,53.01
+5699.T,"IBOKIN Co.,Ltd.",Iron and Steel,8.82,63.2
+5632.T,"Mitsubishi Steel Mfg.Co.,Ltd.",Iron and Steel,9.03,30.75
+5440.T,KYOEI STEEL LTD.,Iron and Steel,9.2,57.53
+5660.T,"KOBELCO WIRE COMPANY,LTD.",Iron and Steel,9.2,54.49
+5464.T,MORY INDUSTRIES INC.,Iron and Steel,10.25,79.48
+5463.T,Maruichi Steel Tube Ltd.,Iron and Steel,11.36,80.91
+5423.T,"TOKYO STEEL MANUFACTURING CO.,LTD.",Iron and Steel,11.49,71.65
+5446.T,"HOKUETSU METAL Co.,Ltd.",Iron and Steel,12.39,66.67
+5602.T,"Kurimoto,Ltd.",Iron and Steel,12.64,57.87
+7305.T,"ARAYA INDUSTRIAL CO.,LTD.",Iron and Steel,12.89,59.77
+9024.T,SEIBU HOLDINGS INC.,Land Transportation,5.74,30.63
+9017.T,"Niigata Kotsu Co.,Ltd.",Land Transportation,6.77,33.73
+9060.T,JAPAN LOGISTIC SYSTEMS CORP.,Land Transportation,7.4,31.82
+9063.T,"Okayamaken Freight Transportation CO.,LTD.",Land Transportation,7.49,49.32
+9022.T,Central Japan Railway Company,Land Transportation,7.86,44.56
+9049.T,"Keifuku Electric Railroad Co.,Ltd.",Land Transportation,7.99,49.21
+9009.T,"Keisei Electric Railway Co.,Ltd.",Land Transportation,8.1,46.52
+9059.T,"Kanda Holdings Co.,Ltd.",Land Transportation,8.1,54.26
+9083.T,"Shinki Bus Co.,Ltd.",Land Transportation,8.1,73.75
+9149.T,"Otomo Logistics Service Co.,Ltd.",Land Transportation,8.31,18.06
+9031.T,"Nishi-Nippon Railroad Co.,Ltd.",Land Transportation,8.68,31.87
+9028.T,"ZERO CO.,LTD.",Land Transportation,9.0,52.6
+9012.T,"Chichibu Railway Co.,Ltd.",Land Transportation,9.84,29.61
+9048.T,"Nagoya Railroad Co., Ltd.",Land Transportation,10.64,31.87
+9029.T,"HIGASHI HOLDINGS CO.,LTD.",Land Transportation,10.65,42.76
+9052.T,"Sanyo Electric Railway Co.,Ltd.",Land Transportation,10.73,46.92
+9021.T,West Japan Railway Company,Land Transportation,11.09,30.82
+9033.T,"Hiroshima Electric Railway Co.,Ltd.",Land Transportation,11.18,40.08
+9057.T,"ENSHU TRUCK CO.,LTD.",Land Transportation,11.21,57.89
+9145.T,"BEING HOLDINGS CO.,LTD.",Land Transportation,11.47,40.16
+6168.T,ONE GROUP CORP.,Machinery,1.98,18.34
+6317.T,Kitagawa Corporation,Machinery,4.76,50.89
+6149.T,"Odawara Engineering Co.,Ltd.",Machinery,4.82,74.54
+6430.T,"DAIKOKU DENKI CO.,LTD.",Machinery,5.71,79.08
+6418.T,"JAPAN CASH MACHINE CO.,LTD.",Machinery,5.96,64.86
+7991.T,"MAMIYA-OP CO.,LTD",Machinery,6.15,61.81
+6307.T,"SANSEI CO.,LTD.",Machinery,6.66,73.06
+6424.T,"TAKAMISAWA CYBERNETICS COMPANY,LTD.",Machinery,6.76,35.68
+6408.T,"OGURA CLUTCH CO.,LTD.",Machinery,6.88,37.65
+6382.T,TRINITY INDUSTRIAL CORPORATION,Machinery,7.19,75.82
+6332.T,"TSUKISHIMA HOLDINGS CO.,LTD.",Machinery,7.34,48.41
+6246.T,Techno Smart Corp.,Machinery,7.43,60.18
+6360.T,"TOKYO AUTOMATIC MACHINERY WORKS,LTD.",Machinery,7.46,59.53
+6417.T,"SANKYO CO.,LTD.",Machinery,7.51,84.64
+6419.T,Mars Group Holdings Corporation,Machinery,7.84,89.92
+6249.T,"Gamecard Holdings,Inc.",Machinery,7.94,87.44
+6230.T,SANEI LTD.,Machinery,8.12,58.28
+6365.T,DMW CORPORATION,Machinery,8.21,68.77
+6463.T,"TPR CO.,LTD.",Machinery,8.25,55.85
+6343.T,FREESIA MACROSS CORPORATION,Machinery,8.34,37.79
+9127.T,"TAMAI STEAMSHIP CO.,LTD",Marine Transportation,3.14,73.24
+9104.T,"Mitsui O.S.K.Lines,Ltd.",Marine Transportation,7.74,53.9
+9171.T,"Kuribayashi Steamship Co.,Ltd.",Marine Transportation,8.37,37.36
+9101.T,Nippon Yusen Kabushiki Kaisha,Marine Transportation,8.51,67.56
+9110.T,"NS United Kaiun Kaisha,Ltd.",Marine Transportation,8.61,56.52
+9107.T,"Kawasaki Kisen Kaisha,Ltd.",Marine Transportation,8.87,74.59
+9115.T,"Meiji Shipping Group Co.,Ltd.",Marine Transportation,8.87,16.28
+9119.T,"IINO KAIUN KAISHA,LTD.",Marine Transportation,11.9,47.48
+9173.T,"Tokai Kisen Co.,Ltd.",Marine Transportation,17.92,25.43
+9130.T,"KYOEI TANKER CO.,LTD.",Marine Transportation,20.04,32.42
+9308.T,"Inui Global Logistics Co.,Ltd.",Marine Transportation,22.12,49.23
+5994.T,"FINE SINTER CO.,LTD.",Metal Products,3.3,29.47
+5989.T,"H-ONE CO.,LTD.",Metal Products,4.07,35.85
+5940.T,"FUJISASH CO.,LTD.",Metal Products,4.96,27.73
+5974.T,"CHUGOKUKOGYO CO.,LTD.",Metal Products,6.45,43.25
+5970.T,G-TEKT CORPORATION,Metal Products,6.65,61.61
+5975.T,Topre Corporation,Metal Products,6.77,59.19
+3440.T,"NISSO GROUP Co.,Ltd.",Metal Products,6.84,46.92
+5965.T,FUJIMAK CORPORATION,Metal Products,7.16,57.37
+5915.T,KOMAIHALTEC Inc.,Metal Products,7.2,45.91
+5956.T,"TOSO CO.,LTD.",Metal Products,7.59,66.2
+3441.T,"SANNO Co.,Ltd.",Metal Products,7.7,53.25
+5936.T,"TOYO SHUTTER CO.,LTD.",Metal Products,7.8,50.71
+5981.T,"TOKYO ROPE MFG.CO.,LTD",Metal Products,8.01,41.99
+5902.T,HOKKAN HOLDINGS LIMITED,Metal Products,8.04,43.45
+5906.T,"MK SEIKO CO.,LTD.",Metal Products,8.2,63.5
+5921.T,"Kawagishi Bridge Works Co.,Ltd.",Metal Products,8.31,82.75
+5997.T,KYORITSU AIR TECH INC.,Metal Products,8.46,62.64
+5984.T,KANEFUSA CORPORATION,Metal Products,8.8,79.43
+5941.T,"NAKANISHI MFG. CO.,LTD.",Metal Products,9.01,67.12
+2961.T,NITCHO CORPORATION,Metal Products,9.06,56.33
+1662.T,"Japan Petroleum Exploration Co.,Ltd.",Mining,7.04,77.43
+1605.T,INPEX CORPORATION,Mining,12.55,61.37
+1514.T,"Sumiseki Holdings,Inc.",Mining,15.67,96.48
+1663.T,K&O Energy Group Inc.,Mining,15.9,82.52
+1515.T,"Nittetsu Mining Co.,Ltd.",Mining,21.23,58.91
+5729.T,"NIHON SEIKO CO.,LTD",Nonferrous Metals,4.73,56.99
+5851.T,RYOBI LIMITED,Nonferrous Metals,7.27,52.21
+5753.T,"NIPPON SHINDO CO.,LTD.",Nonferrous Metals,7.55,72.28
+5757.T,"CK SAN-ETSU Co.,Ltd.",Nonferrous Metals,8.41,60.09
+5858.T,"STG CO.,LTD.",Nonferrous Metals,9.81,36.43
+5819.T,"Canare Electric Co.,Ltd.",Nonferrous Metals,11.07,90.39
+5715.T,"FURUKAWA CO.,LTD.",Nonferrous Metals,11.24,50.88
+5852.T,AHRESTY CORPORATION,Nonferrous Metals,12.0,38.77
+1491.T,"Chugai Mining Co.,Ltd.",Nonferrous Metals,12.48,49.51
+5703.T,"Nippon Light Metal Holdings Company,Ltd.",Nonferrous Metals,14.12,42.83
+5820.T,"MITSUBOSHI CO.,LTD.",Nonferrous Metals,15.8,52.07
+5857.T,"ARE Holdings,Inc.",Nonferrous Metals,16.83,25.77
+5816.T,"Onamba Co.,Ltd.",Nonferrous Metals,17.06,66.0
+5726.T,"OSAKA Titanium technologies Co.,Ltd.",Nonferrous Metals,17.39,42.45
+5742.T,"NIC Autotec,Inc.",Nonferrous Metals,22.12,46.47
+5821.T,HIRAKAWA HEWTECH CORP.,Nonferrous Metals,22.83,82.19
+5805.T,SWCC Corporation,Nonferrous Metals,27.25,42.31
+5714.T,"DOWA HOLDINGS CO.,LTD.",Nonferrous Metals,28.74,59.15
+5741.T,UACJ Corporation,Nonferrous Metals,30.49,29.96
+5802.T,"Sumitomo Electric Industries,Ltd.",Nonferrous Metals,38.17,51.57
+5010.T,"NIPPON SEIRO CO.,LTD.",Oil and Coal Products,8.54,23.37
+5013.T,Yushiro Inc.,Oil and Coal Products,8.61,68.5
+5021.T,"COSMO ENERGY HOLDINGS COMPANY,LIMITED",Oil and Coal Products,12.25,27.12
+5011.T,"NICHIREKI GROUP CO.,LTD.",Oil and Coal Products,12.63,68.81
+5018.T,MORESCO Corporation,Oil and Coal Products,18.02,56.63
+5022.T,REVO International Inc.,Oil and Coal Products,21.01,3.71
+5015.T,BP Castrol K.K.,Oil and Coal Products,21.88,77.59
+5019.T,"Idemitsu Kosan Co.,Ltd.",Oil and Coal Products,45.04,36.02
+5020.T,"ENEOS Holdings,Inc.",Oil and Coal Products,81.97,35.28
+267A.T,TOWARISE CORPORATION,Other Financing Business,4.99,9.31
+7196.T,Casa Inc.,Other Financing Business,6.55,47.65
+411A.T,"Nippon Maritime Bank Co.,Ltd.",Other Financing Business,6.91,17.47
+8772.T,"ASAX CO.,LTD.",Other Financing Business,7.29,41.48
+8439.T,Tokyo Century Corporation,Other Financing Business,7.59,15.04
+8584.T,"JACCS CO.,LTD.",Other Financing Business,8.4,6.53
+8508.T,"J Trust Co.,Ltd.",Other Financing Business,8.42,12.27
+8596.T,"KYUSHU LEASING SERVICE CO.,LTD.",Other Financing Business,8.83,21.04
+8425.T,"Mizuho Leasing Company,Limited",Other Financing Business,8.85,9.82
+7192.T,Mortgage Service Japan Limited,Other Financing Business,9.07,39.72
+8253.T,"Credit Saison Co.,Ltd.",Other Financing Business,10.06,15.11
+7187.T,"J-LEASE CO.,LTD.",Other Financing Business,10.13,37.82
+8585.T,Orient Corporation,Other Financing Business,10.15,8.31
+4346.T,NEXYZ.Group Corporation,Other Financing Business,10.55,17.75
+8793.T,NEC Capital Solutions Limited,Other Financing Business,11.6,9.88
+8789.T,FinTech Global Incorporated,Other Financing Business,11.62,40.63
+8591.T,ORIX CORPORATION,Other Financing Business,11.71,24.25
+5843.T,"Nippon Insure Co.,Ltd.",Other Financing Business,12.69,46.74
+8566.T,"RICOH LEASING COMPANY,LTD.",Other Financing Business,13.61,17.01
+7164.T,"ZENKOKU HOSHO Co.,Ltd.",Other Financing Business,13.66,48.47
+7898.T,"WOOD ONE CO.,LTD.",Other Products,3.92,43.78
+168A.T,itamiarts inc.,Other Products,4.18,33.04
+7997.T,Kurogane Kosakusho Ltd.,Other Products,4.2,56.72
+7814.T,"JAPAN Creative Platform Group Co.,Ltd.",Other Products,4.45,24.38
+7808.T,"C.S. LUMBER CO.,INC",Other Products,5.92,41.91
+7887.T,"NANKAI PLYWOOD CO.,LTD.",Other Products,6.57,75.15
+7812.T,CRESTEC Inc.,Other Products,6.68,41.37
+1518.T,"MITSUI MATSUSHIMA HOLDINGS CO.,LTD.",Other Products,6.74,55.54
+7827.T,ORVIS CORPORATION,Other Products,7.13,45.39
+7986.T,"NIHON ISK Company,Limited",Other Products,7.34,70.43
+7791.T,"DREAMBED CO.,LTD.",Other Products,7.37,40.01
+7803.T,Bushiroad Inc.,Other Products,7.53,48.57
+7811.T,"NAKAMOTO PACKS CO.,LTD.",Other Products,7.63,48.32
+7919.T,"Nozaki Insatsu Shigyo Co.,Ltd.",Other Products,7.65,41.31
+7875.T,"TAKEDA iP HOLDINGS CO.,LTD.",Other Products,8.11,57.81
+7807.T,"KOWA CO.,LTD.",Other Products,8.14,59.73
+7809.T,"KOTOBUKIYA CO.,LTD.",Other Products,8.15,59.96
+7805.T,PRINTNET INC.,Other Products,8.28,55.69
+7795.T,"KYORITSU CO.,LTD.",Other Products,8.48,41.74
+7987.T,"NAKABAYASHI CO.,LTD.",Other Products,8.63,50.75
+4506.T,"Sumitomo Pharma Co.,Ltd.",Pharmaceutical,5.24,22.82
+4553.T,"TOWA PHARMACEUTICAL CO.,LTD.",Pharmaceutical,10.14,36.45
+4569.T,"KYORIN Pharmaceutical Co.,Ltd.",Pharmaceutical,10.2,70.39
+4595.T,"MIZUHO MEDY CO.,LTD.",Pharmaceutical,10.25,83.5
+4540.T,TSUMURA & CO.,Pharmaceutical,10.41,64.72
+4516.T,"Nippon Shinyaku Co.,Ltd.",Pharmaceutical,10.87,87.09
+4885.T,MUROMACHI CHEMICALS INC.,Pharmaceutical,11.51,46.57
+4539.T,"NIPPON CHEMIPHAR CO.,LTD.",Pharmaceutical,12.33,38.45
+4547.T,"KISSEI PHARMACEUTICAL CO.,LTD.",Pharmaceutical,13.74,85.64
+197A.T,"TAUNS Laboratories,Inc.",Pharmaceutical,14.69,47.7
+4578.T,"Otsuka Holdings Co.,Ltd.",Pharmaceutical,15.55,72.27
+4524.T,"MORISHITA JINTAN CO.,LTD.",Pharmaceutical,15.62,67.9
+4527.T,"ROHTO PHARMACEUTICAL CO.,LTD.",Pharmaceutical,15.85,61.65
+4556.T,"KAINOS Laboratories,Inc.",Pharmaceutical,15.92,77.12
+4574.T,"TAIKO PHARMACEUTICAL CO.,LTD.",Pharmaceutical,16.16,69.42
+4886.T,"ASKA Pharmaceutical Holdings Co.,Ltd.",Pharmaceutical,16.26,64.96
+4507.T,"Shionogi & Co.,Ltd.",Pharmaceutical,16.78,88.7
+4559.T,"ZERIA PHARMACEUTICAL CO.,LTD.",Pharmaceutical,18.08,56.25
+4534.T,"Mochida Pharmaceutical Co.,Ltd.",Pharmaceutical,18.35,81.62
+4568.T,"DAIICHI SANKYO COMPANY,LIMITED",Pharmaceutical,18.52,46.97
+7722.T,"KOKUSAI CO.,LTD.",Precision Instruments,7.12,53.86
+7715.T,"NAGANO KEIKI CO.,LTD.",Precision Instruments,10.87,58.84
+255A.T,"GLTECHNO HOLDINGS,INC.",Precision Instruments,10.88,76.07
+7781.T,"HIRAYAMA HOLDINGS Co.,Ltd.",Precision Instruments,10.99,36.3
+7782.T,"Sincere Co.,LTD.",Precision Instruments,11.35,52.36
+7723.T,"Aichi Tokei Denki Co.,Ltd.",Precision Instruments,11.68,74.6
+7745.T,"A&D HOLON Holdings Company,Limited",Precision Instruments,12.47,61.89
+7775.T,"DAIKEN MEDICAL CO.,LTD.",Precision Instruments,12.89,67.22
+7769.T,"RHYTHM CO.,LTD.",Precision Instruments,13.02,69.43
+7713.T,"SIGMA KOKI CO.,LTD.",Precision Instruments,13.12,86.86
+7743.T,"SEED CO.,LTD.",Precision Instruments,13.26,34.9
+6376.T,"NIKKISO CO.,LTD.",Precision Instruments,13.7,44.17
+368A.T,Kitazato Corporation,Precision Instruments,13.72,92.41
+7979.T,SHOFU INC.,Precision Instruments,13.75,85.32
+7749.T,"MEDIKIT CO.,LTD.",Precision Instruments,14.16,86.06
+7727.T,OVAL Corporation,Precision Instruments,14.25,64.77
+7740.T,"Tamron Co.,Ltd.",Precision Instruments,14.45,81.01
+5187.T,"CREATE MEDIC CO.,LTD.",Precision Instruments,14.9,81.08
+7744.T,"Noritsu Koki Co.,Ltd.",Precision Instruments,15.01,75.7
+7734.T,"RIKEN KEIKI CO.,LTD.",Precision Instruments,17.86,83.55
+3945.T,"Superbag Company,Limited",Pulp and Paper,3.59,32.3
+3895.T,HAVIX CORPORATION,Pulp and Paper,5.02,59.02
+204A.T,"TaiyoPackage Co.,Ltd.",Pulp and Paper,6.02,30.89
+3947.T,"Dynapac Co.,Ltd.",Pulp and Paper,7.36,55.22
+3946.T,"TOMOKU CO.,LTD.",Pulp and Paper,7.6,44.84
+3955.T,"IMURA & Co.,Ltd.",Pulp and Paper,8.2,71.05
+3944.T,"Furubayashi Shiko Co.,Ltd.",Pulp and Paper,8.38,49.08
+3863.T,"Nippon Paper Industries Co.,Ltd.",Pulp and Paper,8.64,28.3
+3892.T,"Okayama Paper Industries Co.,Ltd.",Pulp and Paper,10.82,78.01
+3954.T,SHOWA PAXXS CORPORATION,Pulp and Paper,11.71,70.24
+3864.T,Mitsubishi Paper Mills Limited,Pulp and Paper,11.9,40.94
+3950.T,THE PACK CORPORATION,Pulp and Paper,12.67,73.88
+3958.T,"Sasatoku Printing Co.,Ltd.",Pulp and Paper,13.26,61.4
+3943.T,"OHISHI SANGYO CO.,LTD.",Pulp and Paper,13.4,69.9
+3951.T,"ASAHI PRINTING CO.,LTD.",Pulp and Paper,13.42,48.64
+3865.T,Hokuetsu Corporation,Pulp and Paper,13.5,63.29
+3708.T,"Tokushu Tokai Paper Co.,Ltd.",Pulp and Paper,14.77,56.43
+3941.T,"Rengo Co.,Ltd.",Pulp and Paper,14.88,37.32
+3891.T,NIPPON KODOSHI CORPORATION,Pulp and Paper,23.64,67.77
+3861.T,Oji Holdings Corporation,Pulp and Paper,24.57,41.81
+8869.T,Meiwa Estate Company Limited,Real Estate,3.72,22.34
+490A.T,"SENSE TRUST Co.,Ltd.",Real Estate,4.17,10.74
+3483.T,"SHOEI CO.,LTD.",Real Estate,4.32,15.54
+5280.T,"Yoshicon Co.,Ltd.",Real Estate,4.33,61.92
+3280.T,"STrust Co.,Ltd.",Real Estate,4.62,21.71
+2995.T,J-REX Corporation,Real Estate,4.71,37.66
+8887.T,"SYLA Holdings Co.,Ltd.",Real Estate,4.81,66.07
+3242.T,"URBANET CORPORATION CO.,LTD.",Real Estate,4.89,27.84
+3236.T,"PROPERST CO.,LTD.",Real Estate,5.11,40.33
+8928.T,ANABUKI KOSAN INC.,Real Estate,5.25,29.41
+463A.T,"INTELLEX HOLDINGS Co.,Ltd.",Real Estate,5.31,25.38
+2993.T,Choei Inc.,Real Estate,5.61,17.89
+8860.T,FUJI CORPORATION LIMITED,Real Estate,5.79,29.84
+2981.T,Landix Inc.,Real Estate,6.02,38.29
+3494.T,"Mullion Co.,Ltd.",Real Estate,6.14,25.37
+8996.T,"HouseFreedom Co.,Ltd.",Real Estate,6.17,22.69
+2982.T,"A.D.Works Group Co.,Ltd.",Real Estate,6.25,28.56
+8927.T,"MEIHO ENTERPRISE CO.,LTD.",Real Estate,6.34,32.74
+3238.T,"CENTRAL GENERAL DEVELOPMENT CO.,LTD.",Real Estate,6.37,22.58
+3452.T,B-Lot Company Limited,Real Estate,6.37,19.75
+2726.T,"PAL GROUP Holdings CO.,LTD",Retail Trade,0.01,47.92
+8165.T,"SENSHUKAI CO.,LTD.",Retail Trade,1.58,65.16
+7680.T,"KEIJIDOUSHAKAN.Co.,Ltd.",Retail Trade,3.29,13.95
+7578.T,"NICHIRYOKU CO.,LTD.",Retail Trade,3.76,61.34
+7463.T,"ADVAN GROUP CO.,LTD.",Retail Trade,4.16,67.08
+7509.T,I.A GROUP CORPORATION,Retail Trade,4.99,55.24
+3020.T,"Applied Co.,Ltd.",Retail Trade,5.03,58.67
+7137.T,"Grantomato Co.,Ltd.",Retail Trade,5.3,24.34
+8260.T,"IZUTSUYA CO.,LTD.",Retail Trade,5.63,26.79
+7520.T,"Eco's Co.,Ltd.",Retail Trade,6.13,46.55
+8181.T,"Totenko Co.,Ltd.",Retail Trade,6.14,61.38
+305A.T,Double Tree Inc.,Retail Trade,6.18,59.19
+3192.T,"Shirohato Co.,Ltd.",Retail Trade,6.23,37.01
+3538.T,WILLPLUS Holdings Corporation,Retail Trade,6.28,29.11
+9876.T,"COX CO.,LTD.",Retail Trade,6.51,67.28
+8166.T,"Taka-Q Co.,Ltd.",Retail Trade,6.68,18.9
+3159.T,"Maruzen CHI Holdings Co.,Ltd.",Retail Trade,6.77,38.43
+3375.T,ZOA CORPORATION,Retail Trade,6.93,54.09
+9856.T,"KU HOLDINGS CO.,LTD.",Retail Trade,7.09,73.29
+3177.T,"ARIGATOU SERVICES COMPANY,LIMITED",Retail Trade,7.16,48.32
+5199.T,"FUJI LATEX CO.,LTD.",Rubber Products,9.26,36.79
+5101.T,"The Yokohama Rubber Company,Limited",Rubber Products,9.49,51.58
+5105.T,Toyo Tire Corporation,Rubber Products,9.62,65.39
+5184.T,"NICHIRIN CO.,LTD.",Rubber Products,9.86,68.5
+5189.T,"SAKURA RUBBER CO.,LTD.",Rubber Products,10.0,54.61
+5186.T,Nitta Corporation,Rubber Products,11.11,85.25
+5110.T,"Sumitomo Rubber Industries,Ltd.",Rubber Products,11.15,49.05
+5121.T,FUJIKURA COMPOSITES Inc.,Rubber Products,12.66,72.0
+5185.T,"Fukoku Co.,Ltd.",Rubber Products,12.69,54.5
+5192.T,Mitsuboshi Belting Ltd.,Rubber Products,16.75,74.74
+5122.T,"OKAMOTO INDUSTRIES,INC.",Rubber Products,18.45,64.57
+5161.T,"NISHIKAWA RUBBER CO.,LTD.",Rubber Products,22.12,63.54
+5108.T,BRIDGESTONE CORPORATION,Rubber Products,28.9,63.71
+5195.T,"Bando Chemical Industries,Ltd.",Rubber Products,28.99,68.05
+8699.T,"HS Holdings Co.,Ltd.",Securities and Commodities Futures,2.59,74.89
+7176.T,"Simplex Financial Holdings Co.,Ltd.",Securities and Commodities Futures,3.35,64.37
+8737.T,Akatsuki Corp.,Securities and Commodities Futures,6.82,19.42
+8747.T,"YUTAKA TRUSTY SECURITIES CO.,LTD.",Securities and Commodities Futures,7.09,10.96
+8473.T,"SBI Holdings,Inc.",Securities and Commodities Futures,7.17,3.93
+5834.T,"SBI Leasing Services Co.,Ltd.",Securities and Commodities Futures,7.52,23.8
+7148.T,"Financial Partners Group Co.,Ltd.",Securities and Commodities Futures,7.54,44.98
+8704.T,"TRADERS HOLDINGS CO.,LTD.",Securities and Commodities Futures,8.48,13.92
+7175.T,"The Imamura Securities Co.,Ltd.",Securities and Commodities Futures,10.01,61.35
+7177.T,"GMO Financial Holdings,Inc.",Securities and Commodities Futures,10.49,3.76
+8707.T,"IwaiCosmo Holdings,Inc.",Securities and Commodities Futures,10.52,36.51
+8604.T,"Nomura Holdings, Inc.",Securities and Commodities Futures,11.05,6.11
+8518.T,"Japan Asia Investment Company,Limited",Securities and Commodities Futures,11.66,44.21
+7172.T,"Japan Investment Adviser Co.,Ltd.",Securities and Commodities Futures,11.67,25.03
+254A.T,AI FUSION CAPITAL GROUP CORP.,Securities and Commodities Futures,11.79,58.31
+8706.T,"KYOKUTO SECURITIES CO.,LTD.",Securities and Commodities Futures,13.28,65.66
+8739.T,"SPARX Group Co.,Ltd.",Securities and Commodities Futures,13.44,67.1
+8700.T,"Maruhachi Securities Co.,Ltd.",Securities and Commodities Futures,13.77,76.57
+7185.T,Hirose Tusyo Inc.,Securities and Commodities Futures,14.06,16.81
+8601.T,Daiwa Securities Group Inc.,Securities and Commodities Futures,14.16,4.57
+185A.T,Recycle Tech Japan CORPORATION,Services,1.94,39.08
+6059.T,"UCHIYAMA HOLDINGS Co.,Ltd.",Services,3.25,45.85
+4645.T,"ICHISHIN HOLDINGS CO.,LTD.",Services,3.75,15.74
+415A.T,"GMO TECH Holdings,Inc.",Services,3.98,69.83
+333A.T,"TECHNOSMILE,INC.",Services,4.09,18.53
+331A.T,Medix Inc.,Services,4.43,49.01
+437A.T,"Jwave Co.,Ltd",Services,4.75,26.79
+9247.T,TRE HOLDINGS CORPORATION,Services,4.95,45.15
+217A.T,"SUPPORT Co.,Ltd.",Services,5.03,38.73
+2435.T,"CEDAR.Co.,Ltd",Services,5.68,7.42
+9726.T,"KNT-CT Holdings Co.,Ltd.",Services,5.9,37.49
+6547.T,"GREENS CO.,LTD.",Services,6.06,34.61
+6029.T,Artra Group Corporation,Services,6.08,41.09
+9628.T,"SAN HOLDINGS,INC.",Services,6.13,58.95
+9731.T,"Hakuyosha Company,Ltd.",Services,6.14,36.15
+2418.T,TSUKADA GLOBAL HOLDINGS Inc.,Services,6.44,26.55
+9713.T,"THE ROYAL HOTEL,LIMITED",Services,6.46,55.98
+4341.T,SEIRYO ELECTRIC CORPORATION,Services,6.48,44.75
+321A.T,Human Stage Holdings Corporation,Services,6.56,51.37
+2415.T,"Human Holdings Co.,Ltd.",Services,6.61,35.66
+3607.T,"KURAUDIA HOLDINGS CO.,LTD.",Textiles and Apparels,5.39,31.43
+3551.T,DYNIC CORPORATION,Textiles and Apparels,5.43,43.54
+3583.T,AuBEX CORPORATION,Textiles and Apparels,5.71,68.15
+3204.T,Toabo Corporation,Textiles and Apparels,6.77,40.73
+3123.T,"SAIBO Co.,Ltd.",Textiles and Apparels,7.63,42.29
+3524.T,"NITTO SEIMO CO.,LTD.",Textiles and Apparels,8.61,24.23
+3611.T,MATSUOKA CORPORATION,Textiles and Apparels,9.24,51.83
+3612.T,"WORLD CO.,LTD.",Textiles and Apparels,9.42,29.67
+3577.T,Tokai Senko K.K.,Textiles and Apparels,9.49,48.12
+8016.T,"ONWARD HOLDINGS CO.,LTD.",Textiles and Apparels,10.56,47.03
+365A.T,"IZAWA TOWEL CO.,LTD.",Textiles and Apparels,11.86,46.33
+3569.T,"SEIREN CO.,LTD.",Textiles and Apparels,12.64,71.96
+8029.T,LOOK HOLDINGS INCORPORATED,Textiles and Apparels,12.92,63.17
+8111.T,Goldwin Inc.,Textiles and Apparels,12.92,73.16
+3106.T,KURABO INDUSTRIES LTD.,Textiles and Apparels,13.21,62.88
+3201.T,"THE JAPAN WOOL TEXTILE CO.,LTD.",Textiles and Apparels,13.74,69.38
+8011.T,SANYO SHOKAI LTD.,Textiles and Apparels,14.12,68.9
+3109.T,SHIKIBO LTD.,Textiles and Apparels,14.29,41.13
+3513.T,"ICHIKAWA CO.,LTD.",Textiles and Apparels,15.15,75.54
+3001.T,"Katakura Industries Co.,Ltd.",Textiles and Apparels,15.22,63.8
+7247.T,MIKUNI CORPORATION,Transportation Equipment,4.74,34.49
+7255.T,SAKURAI LTD.,Transportation Equipment,4.88,65.94
+7213.T,LECIP HOLDINGS CORPORATION,Transportation Equipment,5.24,49.5
+7102.T,"NIPPON SHARYO,LTD.",Transportation Equipment,5.66,49.29
+7239.T,"TACHI-S CO.,LTD.",Transportation Equipment,5.71,55.99
+7218.T,"TANAKA SEIMITSU KOGYO CO.,LTD.",Transportation Equipment,5.82,55.02
+7273.T,"IKUYO CO.,LTD.",Transportation Equipment,5.84,43.23
+7236.T,"T.RAD Co., Ltd.",Transportation Equipment,6.76,49.94
+7284.T,"MEIWA INDUSTRY CO.,LTD.",Transportation Equipment,6.96,48.06
+7235.T,"TOKYO RADIATOR MFG.CO.,LTD.",Transportation Equipment,6.98,66.71
+7270.T,SUBARU CORPORATION,Transportation Equipment,7.01,53.35
+7318.T,"SERENDIP HOLDINGS Co.,Ltd.",Transportation Equipment,7.13,25.22
+6995.T,"TOKAI RIKA CO.,LTD.",Transportation Equipment,7.23,61.86
+7272.T,"Yamaha Motor Co.,Ltd.",Transportation Equipment,7.36,39.01
+7219.T,"HKS CO.,LTD.",Transportation Equipment,7.89,80.48
+7299.T,FUJI OOZX Inc.,Transportation Equipment,8.01,82.2
+7241.T,"FUTABA INDUSTRIAL CO.,LTD.",Transportation Equipment,8.14,37.47
+7254.T,UNIVANCE CORPORATION,Transportation Equipment,8.19,59.34
+7228.T,DAYTONA CORPORATION,Transportation Equipment,8.29,80.72
+7242.T,KYB Corporation,Transportation Equipment,8.34,48.7
+9193.T,"Tokyo Kisen Co.,Ltd.",Warehousing and Harbor Transportation Service,5.87,75.99
+9365.T,TRADIA CORPORATION,Warehousing and Harbor Transportation Service,5.97,43.09
+9311.T,ASAGAMI CORPORATION,Warehousing and Harbor Transportation Service,7.27,47.87
+9361.T,"FUSHIKI KAIRIKU UNSO CO.,LTD.",Warehousing and Harbor Transportation Service,7.49,47.96
+9355.T,RINKO CORPORATION,Warehousing and Harbor Transportation Service,7.51,46.71
+9312.T,"THE KEIHIN CO.,LTD.",Warehousing and Harbor Transportation Service,8.24,59.2
+9363.T,"DAIUN CO.,LTD.",Warehousing and Harbor Transportation Service,9.46,63.85
+9306.T,"Toyo Logistics Co.,Ltd.",Warehousing and Harbor Transportation Service,9.47,54.84
+9353.T,"SAKURAJIMA FUTO KAISHA,LTD.",Warehousing and Harbor Transportation Service,9.74,62.81
+9301.T,Mitsubishi Logistics Corporation,Warehousing and Harbor Transportation Service,10.36,59.85
+9366.T,SANRITSU CORPORATION,Warehousing and Harbor Transportation Service,10.53,47.34
+9351.T,"TOYO WHARF & WAREHOUSE CO.,LTD.",Warehousing and Harbor Transportation Service,10.71,53.63
+9368.T,"KIMURA UNITY CO.,LTD.",Warehousing and Harbor Transportation Service,10.92,60.74
+9310.T,Japan Transcity Corporation,Warehousing and Harbor Transportation Service,13.07,55.13
+9362.T,"HYOKI KAIUN KAISHA,LTD.",Warehousing and Harbor Transportation Service,13.68,38.67
+9304.T,Shibusawa Logistics Corporation,Warehousing and Harbor Transportation Service,13.77,54.81
+9303.T,"The Sumitomo Warehouse Co.,Ltd.",Warehousing and Harbor Transportation Service,14.58,59.98
+9325.T,PHYZ Holdings Inc.,Warehousing and Harbor Transportation Service,15.01,38.37
+9381.T,AIT CORPORATION,Warehousing and Harbor Transportation Service,16.58,74.58
+9307.T,"Sugimura Warehouse Co.,Ltd.",Warehousing and Harbor Transportation Service,19.46,75.05
+2700.T,"KITOKU SHINRYO CO.,LTD.",Wholesale Trade,2.99,36.09
+8135.T,ZETT CORPORATION,Wholesale Trade,2.99,44.42
+405A.T,"Koyama Miraie Co.,Ltd",Wholesale Trade,3.93,22.89
+8041.T,OUG Holdings Inc.,Wholesale Trade,4.42,39.39
+7538.T,"DAISUI CO.,LTD.",Wholesale Trade,4.45,46.12
+3089.T,"Techno Alpha Co.,Ltd.",Wholesale Trade,4.62,69.48
+8138.T,SANKYO KASEI CORPORATION,Wholesale Trade,4.77,53.85
+3004.T,SHINYEI KAISHA,Wholesale Trade,4.88,31.87
+152A.T,"OPTY CO.,LTD.",Wholesale Trade,4.99,55.85
+3306.T,"THE NIHON SEIMA CO.,LTD.",Wholesale Trade,5.06,43.86
+2767.T,TSUBURAYA FIELDS HOLDINGS INC.,Wholesale Trade,5.07,51.89
+8152.T,SOMAR CORPORATION,Wholesale Trade,5.09,65.13
+8123.T,"T.KAWABE & CO.,LTD.",Wholesale Trade,5.35,57.12
+8077.T,TORQ Inc.,Wholesale Trade,5.42,41.98
+7461.T,"KIMURA CO.,LTD.",Wholesale Trade,5.64,51.81
+2788.T,"APPLE INTERNATIONAL CO.,LTD.",Wholesale Trade,5.7,49.99
+385A.T,"YAMAMOTO TRADING CO.,LTD.",Wholesale Trade,5.7,44.59
+8043.T,Starzen Company Limited,Wholesale Trade,5.78,51.62
+7670.T,O-WELL CORPORATION,Wholesale Trade,5.85,46.63
+8030.T,"Chuo Gyorui Co.,Ltd.",Wholesale Trade,5.89,42.85

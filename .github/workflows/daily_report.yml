@@ -1,0 +1,54 @@
+name: Daily Lowest P/B Japan Stock Report
+
+on:
+  schedule:
+    # 20:00 UTC is 05:00 AM JST
+    - cron: '0 20 * * *'
+  workflow_dispatch:
+
+jobs:
+  run-analysis:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Needed to commit archive back to repo
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Cache data
+        uses: actions/cache@v4
+        with:
+          path: cache/
+          key: stock-cache-${{ runner.os }}-${{ github.run_id }}
+          restore-keys: |
+            stock-cache-${{ runner.os }}-
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install pandas yfinance requests openpyxl xlrd curl_cffi python-dotenv
+
+      - name: Run analysis
+        env:
+          EMAIL_SENDER: ${{ secrets.EMAIL_SENDER }}
+          EMAIL_PASSWORD: ${{ secrets.EMAIL_PASSWORD }}
+          EMAIL_RECEIVER: ${{ secrets.EMAIL_RECEIVER }}
+        run: python lowest_pb_japanese_stocks.py
+
+      - name: Commit Monthly Archive
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          if [ -d "reports" ] && [ "$(ls -A reports)" ]; then
+            git add reports/*.csv
+            if git commit -m "Archive monthly report: $(date +'%Y-%m-%d')"; then
+              git push
+            else
+              echo "No changes to commit"
+            fi
+          fi
