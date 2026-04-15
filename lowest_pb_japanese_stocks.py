@@ -218,7 +218,7 @@ def analyze_stocks(ticker_info):
                         cached_data["P/B Ratio"] = 0
                     cached_data["pb_timestamp"] = now
             
-            # Fetch NCA/BV from Balance Sheet
+            # Fetch NCA/BV and Equity Ratio from Balance Sheet
             if needs_nca:
                 try:
                     bs = t_obj.balance_sheet
@@ -237,11 +237,18 @@ def analyze_stocks(ticker_info):
                                 bv = bs.loc[label, col]
                                 break
                         
+                        # Total Assets for Equity Ratio
+                        total_assets = bs.loc["Total Assets", col] if "Total Assets" in bs.index else None
+
                         if isinstance(wc, (int, float)) and isinstance(bv, (int, float)) and bv != 0:
                             cached_data["NCA/BV Ratio"] = round(wc / bv, 3)
-                            cached_data["nca_timestamp"] = now
+                            
+                        if isinstance(total_assets, (int, float)) and isinstance(bv, (int, float)) and total_assets > 0:
+                            cached_data["Equity Ratio %"] = round((bv / total_assets) * 100, 2)
+                        
+                        cached_data["nca_timestamp"] = now
                 except Exception as e:
-                    log.warning("Could not get NCA/BV for %s: %s", ticker, e)
+                    log.warning("Could not get balance sheet ratios for %s: %s", ticker, e)
             
             # Update cache
             cached_data.update({"Ticker": ticker, "Name": name, "Sector": sector})
@@ -258,7 +265,8 @@ def analyze_stocks(ticker_info):
                 "Name": name,
                 "Sector": sector,
                 "P/B Ratio": pb,
-                "NCA/BV Ratio": cached_data.get("NCA/BV Ratio", "N/A")
+                "NCA/BV Ratio": cached_data.get("NCA/BV Ratio", "N/A"),
+                "Equity Ratio %": cached_data.get("Equity Ratio %", "N/A")
             })
 
     save_cache(FINANCIAL_CACHE_FILE, cache)
