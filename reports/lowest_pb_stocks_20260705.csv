@@ -208,7 +208,7 @@
 8750.T,"Daiichi Life Group,Inc.",Insurance,1.56,N/A,4.99
 8729.T,Sony Financial Group Inc.,Insurance,1.57,N/A,N/A
 7343.T,"Broad-Minded Co.,Ltd.",Insurance,1.69,0.65,73.64
-8766.T,"Tokio Marine Holdings,Inc.",Insurance,2.63,N/A,16.25
+8766.T,"Tokio Marine Holdings,Inc.",Insurance,1.79,N/A,16.25
 8715.T,"Anicom Holdings,Inc.",Insurance,3.19,N/A,38.72
 7388.T,FP Partner Inc.,Insurance,4.82,0.385,64.24
 8798.T,"Advance Create Co.,Ltd.",Insurance,8.6,2.367,5.44
@@ -497,7 +497,7 @@
 8617.T,"The Kosei Securities Co.,Ltd.",Securities and Commodities Futures,0.32,0.484,72.18
 8699.T,"HS Holdings Co.,Ltd.",Securities and Commodities Futures,0.35,N/A,74.89
 8518.T,"Japan Asia Investment Company,Limited",Securities and Commodities Futures,0.44,1.251,44.21
-8746.T,unbanked inc.,Securities and Commodities Futures,0.5,0.944,74.85
+8746.T,unbanked inc.,Securities and Commodities Futures,0.47,0.944,74.85
 7175.T,"The Imamura Securities Co.,Ltd.",Securities and Commodities Futures,0.54,0.647,61.35
 8742.T,"KOBAYASHI YOKO CO.,LTD.",Securities and Commodities Futures,0.65,0.415,46.78
 8747.T,"YUTAKA TRUSTY SECURITIES CO.,LTD.",Securities and Commodities Futures,0.7,0.68,10.96
@@ -550,10 +550,10 @@
 3529.T,"ATSUGI CO.,LTD.",Textiles and Apparels,0.55,0.366,77.52
 3571.T,"SOTOH CO.,LTD.",Textiles and Apparels,0.58,0.249,74.45
 3513.T,"ICHIKAWA CO.,LTD.",Textiles and Apparels,0.63,0.52,75.54
+3607.T,"KURAUDIA HOLDINGS CO.,LTD.",Textiles and Apparels,0.64,-0.076,31.43
 3611.T,MATSUOKA CORPORATION,Textiles and Apparels,0.65,0.667,51.83
 3597.T,"JICHODO Co.,Ltd.",Textiles and Apparels,0.67,0.743,92.1
 8127.T,YAMATO INTERNATIONAL INC.,Textiles and Apparels,0.67,0.332,74.31
-3607.T,"KURAUDIA HOLDINGS CO.,LTD.",Textiles and Apparels,0.68,-0.076,31.43
 7215.T,"FALTEC Co.,Ltd.",Transportation Equipment,0.21,0.524,27.77
 7212.T,F-TECH INC.,Transportation Equipment,0.22,-0.011,29.01
 7201.T,"NISSAN MOTOR CO.,LTD.",Transportation Equipment,0.23,0.858,26.06
